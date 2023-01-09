@@ -1,7 +1,7 @@
 {
-    "name": "concordium-idiss",
+    "name": "concordium-nodejs-idp",
     "version": "2.0.0",
-    "description": "JavaScript Identity Issuer Library",
+    "description": "Concordium NodeJS IDP",
     "main": "dist/src/index.js",
     "types": "dist/src/index.d.ts",
     "scripts": {
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://gitlab.com/notabene/concordium-idiss-js.git"
+        "url": "git+https://github.com/Concordium/concordium-nodejs-idp.git"
     },
     "author": "Andres Junge <andres@notabene.id>",
     "bugs": {
-        "url": "https://gitlab.com/notabene/concordium-idiss-js/issues"
+        "url": "https://github.com/Concordium/concordium-nodejs-idp/issues"
     },
     "license": "MIT",
-    "homepage": "https://gitlab.com/notabene/concordium-idiss-js#readme",
+    "homepage": "https://github.com/Concordium/concordium-nodejs-idp",
     "dependencies": {
         "fp-ts": "^2.7.0",
         "io-ts": "^2.2.7",
