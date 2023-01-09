@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2015",
+    "declaration": true,
+    "outDir": "./dist",
+    "skipLibCheck": true,
+    "composite": true
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "artifacts/",
+    "node_modules"
+  ]
+}
